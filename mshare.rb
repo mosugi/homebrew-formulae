@@ -1,8 +1,8 @@
 class Mshare < Formula
   desc "macOS CLI Wrapper for NSSharingService"
   homepage "https://github.com/mosugi/mshare"
-  url "https://github.com/mosugi/mshare/archive/1.0.0.tar.gz"
-  sha256 "fd96b9e76fa80e060cabc85539f6750a1a99495643aaeea9f411dd90d55f60a5"
+  url "https://github.com/mosugi/mshare/archive/1.0.1.tar.gz"
+  sha256 "c7348d774b513cad46d41da9ed4dad6491b6ea32e077abeeedbd2d7f16f96dce"
   license "MIT"
   head "https://github.com/mosugi/mshare"
 
